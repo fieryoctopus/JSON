@@ -1,0 +1,12 @@
+{
+	"person_name": "Nastya",
+	"person_surname": "Kolpakova",
+	"person_age": 26,
+	"person_animals":{
+				"dog_1": "Robin",
+				"dog_2": "Lumi"
+	},
+	"person_salary": "2000 USD"
+
+
+}
