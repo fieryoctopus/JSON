@@ -6,10 +6,10 @@
               "Minor",
               "Trivial"
               },
-  "Enviroment": "Description of enviroment",
+  "Environment": "Description of environment",
   "Title": "Description of bug",
-  "Steps": "Steps to reproduse the bug",
+  "Steps": "Steps to reproduce the bug",
   "Expected Result": "Description of ER",
-  "Acrual Result": "Description of AR",
+  "Actual Result": "Description of AR",
   "Link": "Video or photo with bug",
 }
