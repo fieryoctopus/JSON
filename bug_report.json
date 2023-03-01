@@ -1,4 +1,15 @@
 {
-  "Here will be bug report"
-  "This file was changed"
+  "ID": "number",
+  "Severity": {
+              "Critical",
+              "Major",
+              "Minor",
+              "Trivial"
+              },
+  "Enviroment": "Description of enviroment",
+  "Title": "Description of bug",
+  "Steps": "Steps to reproduse the bug",
+  "Expected Result": "Description of ER",
+  "Acrual Result": "Description of AR",
+  "Link": "Video or photo with bug",
 }
